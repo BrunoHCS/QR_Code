@@ -1,0 +1,14 @@
+C:\Users\bruno\Desktop\QRCode\QRCode\QRCode\bin\x86\Debug\QRCode.exe.config
+C:\Users\bruno\Desktop\QRCode\QRCode\QRCode\bin\x86\Debug\QRCode.exe
+C:\Users\bruno\Desktop\QRCode\QRCode\QRCode\bin\x86\Debug\QRCode.pdb
+C:\Users\bruno\Desktop\QRCode\QRCode\QRCode\bin\x86\Debug\QRCoder.dll
+C:\Users\bruno\Desktop\QRCode\QRCode\QRCode\bin\x86\Debug\System.Drawing.Common.dll
+C:\Users\bruno\Desktop\QRCode\QRCode\QRCode\bin\x86\Debug\UnityEngine.dll
+C:\Users\bruno\Desktop\QRCode\QRCode\QRCode\obj\x86\Debug\QRCode.csprojAssemblyReference.cache
+C:\Users\bruno\Desktop\QRCode\QRCode\QRCode\obj\x86\Debug\QRCode.Form1.resources
+C:\Users\bruno\Desktop\QRCode\QRCode\QRCode\obj\x86\Debug\QRCode.Properties.Resources.resources
+C:\Users\bruno\Desktop\QRCode\QRCode\QRCode\obj\x86\Debug\QRCode.csproj.GenerateResource.cache
+C:\Users\bruno\Desktop\QRCode\QRCode\QRCode\obj\x86\Debug\QRCode.csproj.CoreCompileInputs.cache
+C:\Users\bruno\Desktop\QRCode\QRCode\QRCode\obj\x86\Debug\QRCode.csproj.CopyComplete
+C:\Users\bruno\Desktop\QRCode\QRCode\QRCode\obj\x86\Debug\QRCode.exe
+C:\Users\bruno\Desktop\QRCode\QRCode\QRCode\obj\x86\Debug\QRCode.pdb
